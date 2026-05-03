@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiPrimeraApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="typeName">Type your name</string>
+    <string name="btnContinue">Continue</string>
+
+    <string name="hello_name">Hello, %1$s!</string>
+    <string name="welcome_subtitle">Welcome to the app</string>
+    <string name="back">Back</string>
+
+</resources>
